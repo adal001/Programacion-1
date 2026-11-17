@@ -47,3 +47,7 @@ El valor n es un entero positivo.
 
 ### Tabla multiplicar N
 Programa que lee un entero n y escribe la tabla de multiplicar de n (de 1 a 10).
+
+### Nombre, edad, peso usuario
+Programa que captura el nombre, la edad y el peso del usuario y los imprime
+juntos con el formato: XXXXXXXXX, tienes XX años y pesas XX.XX kg.
