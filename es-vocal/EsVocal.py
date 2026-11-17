@@ -8,9 +8,9 @@ Fecha: 14/OCT/26
 """
 
 print("Programa que captura un carácter e indica si es una vocal.")
-
+# Obtener carácter
 caracterIngresado = input("Ingrese un carácter: ")
-
+# Indicar si el carácter ingresado es o no una vocal
 if len(caracterIngresado) == 1:
     match caracterIngresado.lower():
         case "a" | "e" | "i" | "o" | "u" | "á" | "é" | "í" | "ó" | "ú" | "ü":
