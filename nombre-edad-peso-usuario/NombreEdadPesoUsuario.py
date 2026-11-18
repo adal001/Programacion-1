@@ -3,6 +3,7 @@
 
 nombreUsuario = input("Ingrese su nombre: ")
 edadUsuario = input("Ahora su edad: ")
+# Obtener número entero y convertirlo a número real.
 pesoUsuario = float(input("Y por último, su peso en kg: "))
 
 print(nombreUsuario, ", tienes ", edadUsuario, " años y pesas ", pesoUsuario, " kg.", sep="")
